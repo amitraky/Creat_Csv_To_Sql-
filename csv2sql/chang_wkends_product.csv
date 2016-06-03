@@ -1,0 +1,3 @@
+id,catid,  partNum,manufacturer,mPartNum,description,leadStatus,datasheet,productPhoto,drawing,quantity,price,minQty,series,frequency,type,impedance,voltage-input-max,capacitance-frequency,size,termination,operating,other,status,seo,slug
+27,105,102-1126-ND2,89,CEB-20D64x,BUZZ ELEM PIEZO STD 6.5KHZ 30V,Lead Free / RoHS Compliant,15456.pdf,41543.jpg,16432.jpg,5001,1.62,600,AB,600Hz,Feedback,150 ohm,55,66,"1.61"" Dia (41mm)",None,,,active,,ceb-20d64x
+28,105,102-1126-ND,90,CEB-20D64,BUZZ ELEM PIEZO STD 6.5KHZ 30V,Lead Free / RoHS Compliant,22645.txt,21767.png,,5000,1.5,600,APS,800Hz,Standard,200 ohm,56,67,"1.73"" Dia (44mm)",Wire Leads,,,active,,ceb-20d64
